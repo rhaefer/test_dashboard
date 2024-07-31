@@ -1,0 +1,12 @@
+name: CCRPC_Work_Travel
+title: CCRPC_Work_Travel
+username: rsginc
+account: rsginc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12212095
+bundleId: 8817058
+url: https://rsginc.shinyapps.io/CCRPC_Work_Travel/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
